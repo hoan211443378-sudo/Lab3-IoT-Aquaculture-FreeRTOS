@@ -23,6 +23,3 @@ Dự án thiết kế hệ thống tự động giám sát các thông số môi
 - HTML, CSS, JavaScript
 - IoT
 
-## 5. Sinh viên thực hiện
-- Họ và tên: Cao Đức Hoan
-- Mã sinh viên: 211443378
